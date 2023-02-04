@@ -1,13 +1,13 @@
 <img align="center" src="https://camo.githubusercontent.com/6119d106575d1a4ec3a95529bf2fd1027f7be0369f29ffa6bac01d3a8c813b4b/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d74696d654772616469656e74266865696768743d3135302673656374696f6e3d68656164657226746578743d596f75253230466f756e642532304d652c253230417765736f6d652126666f6e7453697a653d333526666f6e74416c69676e593d323026646573633d2e2e2e72656164253230612532306c6974746c6525323061626f75742532306d652e266465736353697a653d32302664657363416c69676e593d343526616e696d6174696f6e3d7477696e6b6c696e67" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=150&amp;section=header&amp;text=You%20Found%20Me,%20Awesome!&amp;fontSize=35&amp;fontAlignY=20&amp;desc=...Know%20a%20little%20about%20me.&amp;descSize=20&amp;descAlignY=45&amp;animation=twinkling" style="max-width: 100%;">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Shaik Mohammed Ismail</h1>
 <h3 align="center">A passionate Full Stack Web frontend developer</h3>
-
+<img align="right" alt="GIF" src="https://gifimage.net/wp-content/uploads/2018/06/trabajo-gif-4.gif" width="360"/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Ismail 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Web Browsing🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#57bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-
+<div>
 - 🔭 I’m currently Pursuing **Full Stack Web Development**
 
 - 🌱 I’m currently learning **Node.js, Express, MongoDB**
@@ -17,6 +17,11 @@
 - 📫 How to reach me **sk.mdismail056@gmail.com**
 
 - ⚡ Fun fact **The Mona Lisa has no eyebrows.**
+</div>
+  
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
