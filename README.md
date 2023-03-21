@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript & DSA**
   
-- 💻 Know more about me [Portfolio](https://ShaikIsmail0567.github.io)
+<!-- - 💻 Know more about me [Portfolio](https://ShaikIsmail0567.github.io) -->
   
 - 📫 How to reach me **sk.mdismail056@gmail.com**
 
