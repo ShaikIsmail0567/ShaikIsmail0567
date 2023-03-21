@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript & DSA**
   
-- 💻 Know more about me [Portfolio](ShaikIsmail0567.github.io)
+- 💻 Know more about me [Portfolio](https://ShaikIsmail0567.github.io)
   
 - 📫 How to reach me **sk.mdismail056@gmail.com**
 
@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shaik-ismail-791627168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik-ismail-791627168" height="30" width="40" /></a>
-  <a href="ShaikIsmail0567.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shaik-ismail-791627168" height="30" width="40" /></a>
+  <a href="https://ShaikIsmail0567.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shaik-ismail-791627168" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">🚀 Languages and Tools:</h2>
