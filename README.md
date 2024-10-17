@@ -1,18 +1,18 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=150&amp;section=header&amp;text=You%20Found%20Me,%20Awesome!&amp;fontSize=35&amp;fontAlignY=20&amp;desc=...Know%20a%20little%20about%20me.&amp;descSize=20&amp;descAlignY=45&amp;animation=twinkling" style="max-width: 100%;">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Shaik Mohammed Ismail</h1>
-<h3 align="center">A passionate Full Stack Web frontend developer</h3>
+<h3 align="center">Backend Developer</h3>
 <img align="right" alt="GIF" src="https://gifimage.net/wp-content/uploads/2018/06/trabajo-gif-4.gif" width="360"/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Ismail 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Web Browsing🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#57bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Ismail 🏽; I am a Backend%20Developer 🏻‍💻; interested in Web Browsing🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#57bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <div>
-- 🔭 I’m currently Pursuing **Full Stack Web Development**
+- 🔭 I’m currently working as **Backend Developer**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Nodejs, Express js, Mysql, Mongodb**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Nodejs, Express js, Mysql, Mongodb, AWS, Serverless**
   
 - 💻 Know more about me [Portfolio](https://ShaikIsmail0567.github.io)
   
