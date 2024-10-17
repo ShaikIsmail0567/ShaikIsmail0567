@@ -8,7 +8,7 @@
 </p>
 
 <div>
-- 🔭 I’m currently working as **Backend Developer**
+- 🔭 I’m currently working as a Backend Developer
 
 - 🌱 I’m currently learning **React**
 
